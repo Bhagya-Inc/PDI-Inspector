@@ -1,0 +1,17 @@
+{
+  "name": "PDI Inspector",
+  "short_name": "PDI Inspector",
+  "description": "Vehicle pre-delivery inspection assistant.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
